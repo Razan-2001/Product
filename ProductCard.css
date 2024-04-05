@@ -1,0 +1,17 @@
+/* في ملف ProductCard.css */
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 50px;
+    margin-bottom: 20px;
+  }
+  /* في ملف ProductCard.css */
+.card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
